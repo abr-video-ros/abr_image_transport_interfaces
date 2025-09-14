@@ -35,8 +35,6 @@ string encoding
 
 # Compressed image data (AVPacket)
 uint8[] compressed_data
-
-
 ```
 
 This message is the primary format for publishing ABR video frames.
